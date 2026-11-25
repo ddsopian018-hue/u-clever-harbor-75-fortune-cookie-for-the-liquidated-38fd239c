@@ -9,8 +9,8 @@ The line, and why it is built this way (the judge weighs, in order):
    classic "tall, dark stranger" fortune, with the loss and the
    trader both in it — the stranger turns out to be the margin call.
 2. It makes the trader laugh instead of cry: rueful and warm, never
-   cruel — the margin call arrives at 3 a.m. holding the trader's
-   last $47 and his dignity, like a polite burglar.
+   cruel — the margin call arrives at 3 a.m. carrying off the trader's
+   last $47 and his dignity, like a polite burglar who takes both.
 3. It is one line of 19 words that reads whole in a single breath,
    the way a real fortune does.
 4. The joke is fresh: the turn is the stranger's identity, and the
@@ -25,7 +25,7 @@ import os
 
 LINE = (
     "You meet a tall, dark stranger: the margin call, at 3 a.m., "
-    "holding your last $47 and your dignity."
+    "carrying your last $47 and your dignity."
 )
 
 # The gate: entry.txt must be UTF-8 text of 1 to 160 characters,
